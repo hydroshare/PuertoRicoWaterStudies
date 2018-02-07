@@ -27,3 +27,4 @@ Plans for Archiving Data
  
 HydroShare will serve as the archival system for results from this project. Curated research products (e.g., datasets, models, etc.) published in HydroShare are citable for use in peer-reviewed journal articles, conference presentations and proceedings, and other formal publications using a formal digital object identifier (DOI). HydroShare and all of its attendant systems are hosted on fault-tolerant, enterprise-class servers dedicated to the HydroShare system and housed in the Renaissance Computing Institute’s (RENCI’s) managed, climate controlled, UPS-backed information technology facility, ensuring the reliability of the HydroShare system. All source code developed as part of this project will be openly shared in GitHub repositories associated with the HydroShare project.
 
+
